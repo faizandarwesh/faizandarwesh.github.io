@@ -71,7 +71,7 @@ Project presentation: [A Smart Safety Gadget for Avoiding Accidents in Warehouse
 
 <img style="width: 340px; height: 255px;" src="./images/oxi_pres.jpg">
 
-## Work Experience
+<!-- ## Work Experience
 
 ### PureVPN (via Disrupt Ventures)
 
@@ -98,7 +98,7 @@ A consistent and company-wide accepted measure of churn.
 * Infrastructure health, and capacity planning
 In this project I worked on development and deployment of data ingestion and storage pipeline. Collection and robust, scalable storage of machine generated metrics of a global network. The data was then used for monitoring the health of global IT infrastructure. Aid in scheduled load and capacity planning. This also reduced the manual effort of gathering data and compiling hefty reports, and increased accuracy and visibility.
 
-### Electronics Design Center, NED University
+<!-- ### Electronics Design Center, NED University
 
 <span class="jobposition">Research Student (January 2015 - April 2015)</span>
 
@@ -110,8 +110,8 @@ In Electronics Design Center I was responsible for:
 
 * Hardware-Software interfacing, testing, and debugging.
 * Software development for Embedded Systems  
-
-### Hyphen Consultancy
+-->
+<!-- ### Hyphen Consultancy
 
 <span class="jobposition">Freelance Remote Web Developer (August 2012 - October 2014)</span>
 
@@ -120,7 +120,7 @@ In Electronics Design Center I was responsible for:
 As a freelancer with Hyphen Consultancy I worked on:  
 Database driven Web Applications (Primarily PHP and MySQL, occasionally ASP.Net and MS SQL Server)
 Rich Internet Applications using Google Web Toolkit (Java)
-
+-->
 ## Online Courses and Certifications
 
 I did following online courses to enhance my knowledge of Web and Mobile App Development
@@ -134,13 +134,14 @@ I did following online courses to enhance my knowledge of Web and Mobile App Dev
 |Android Basics : Networking <a class="ext-link-a" href="https://classroom.udacity.com/courses/ud843"><img class="ext-link-img" src="./images/ext-link.png" /></a>
 |Firebase in a Weekend (Android) <a class="ext-link-a" href="https://classroom.udacity.com/courses/ud0352"><img class="ext-link-img" src="./images/ext-link.png" /></a>
 
-## Honors and Awards
+## Events and Seminars
 
 |-------------------------------------------------------
 | Runners Up in RoboWars Competition at IBA ProBattle 2017
 | Participated in Speed Programming Competition held at NED in SPEC16.
-|
-| 2nd Position at DICE Health Exhibition and Competition 2015
+| Participated in IQUEST Competition in PROQUEST16 at Karachi University Computer Science Department (UBIT).
+| Introduction to HTML, CSS and JavaScript organised by ACM-KU
+| Android Development Workshop at DCS organised by IEEE.
 
 ## I have programming experience in:
 
