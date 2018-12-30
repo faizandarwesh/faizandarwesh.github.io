@@ -1,0 +1,213 @@
+@import "vars";
+
+/*
+ * Basic
+ */
+
+html {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+body {
+    margin: 0;
+    font-family: "Inconsolata";
+    height: 100%;
+}
+a {
+    text-decoration: none;
+    color: $accent;
+    font-weight: bold;
+}
+a:hover {
+    text-decoration: underline;
+}
+hr {
+    border: 0;
+    height: 0;
+    border-top: 1px solid rgba(0, 0, 0, 0.1);
+    border-bottom: 1px solid rgba(255, 255, 255, 0.3);
+}
+
+/*
+ * Navbar
+ */
+
+#author-name {
+    font-size: 30px;
+    color: #272727;
+    display: inline-block;
+}
+.navbar {
+    padding: 50px 0 50px 0;
+}
+.navbar-ul {
+    display: inline-block;
+    margin: 0;
+    padding: 5px 0 5px 0;
+    margin-left: 20px;
+}
+.nav-list {
+    list-style-type: none;
+    margin: 0 5px 0 10px;
+}
+.alignable {
+    display: inline-block;
+}
+.pull-left {
+    @extend .alignable;
+    float: left;
+}
+.pull-right {
+    @extend .alignable;
+    float: right;
+}
+
+/* Divs */
+
+.container {
+    max-width: $max-width;
+    margin: auto;
+}
+.wrapper {
+    min-height: 100%;
+}
+
+/* Mobile */
+
+@media (max-width: 800px) {
+    .container {
+        max-width: $med-width;
+        transition: 0.3s ease all;
+    }
+}
+
+@media (max-width: 650px) {
+    .container {
+        max-width: 83%;
+    }
+    .navbar-ul {
+        margin-top: 5px;
+    }
+}
+
+@media (max-width: 580px) {
+    #author-name {
+        display: inline-block;
+    }
+}
+
+/*
+ *		Added styles
+ */
+
+.jobposition {
+	color: #110503;
+	font-style: italic;
+}
+
+a.ext-link-a img.ext-link-img {
+	width: 12px;
+	height: 12px;
+}
+
+.outstanding-box {
+    // border: 1px solid red;
+    padding: 7px;
+    -webkit-box-shadow: 0px 0px 7px 2px rgba(201,201,201,1);
+    -moz-box-shadow: 0px 0px 7px 2px rgba(201,201,201,1);
+    box-shadow: 0px 0px 7px 2px rgba(201,201,201,1);
+}
+
+.gallery-imgbox {
+  float: left;
+  width: 345px;
+  border: 1px solid #dddddd;
+  padding: 1px;
+}
+
+.gallery-p {
+
+}
+
+.gallery-image {
+    width: 340px !important;
+    height: 300px;
+}
+
+.ext-link-a {
+
+}
+
+.skill-badge-orange {
+  background: #ffaf38;
+  background-image: -webkit-linear-gradient(top, #ffaf38, #f28500);
+  background-image: -moz-linear-gradient(top, #ffaf38, #f28500);
+  background-image: -ms-linear-gradient(top, #ffaf38, #f28500);
+  background-image: -o-linear-gradient(top, #ffaf38, #f28500);
+  background-image: linear-gradient(to bottom, #ffaf38, #f28500);
+  //border: 1px solid #FF8633;
+  border: none;
+  -webkit-border-radius: 3;
+  -moz-border-radius: 3;
+  border-radius: 3px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 12px;
+  /*font-weight: bold;*/
+  padding: 5px 10px 5px 10px;
+  text-decoration: none;
+}
+
+.skill-badge-blue {
+  background: #3498db;
+  background-image: -webkit-linear-gradient(top, #3498db, #2980b9);
+  background-image: -moz-linear-gradient(top, #3498db, #2980b9);
+  background-image: -ms-linear-gradient(top, #3498db, #2980b9);
+  background-image: -o-linear-gradient(top, #3498db, #2980b9);
+  background-image: linear-gradient(to bottom, #3498db, #2980b9);
+  //border: 1px solid #FF8633;
+  border: none;
+  -webkit-border-radius: 3;
+  -moz-border-radius: 3;
+  border-radius: 3px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 12px;
+  font-weight: bold;
+  padding: 5px 10px 5px 10px;
+  text-decoration: none;
+}
+
+.skill-badge-green {
+  /*background: #34d622;
+  background-image: -webkit-linear-gradient(top, #34d622, #66a30c);
+  background-image: -moz-linear-gradient(top, #34d622, #66a30c);
+  background-image: -ms-linear-gradient(top, #34d622, #66a30c);
+  background-image: -o-linear-gradient(top, #34d622, #66a30c);
+  background-image: linear-gradient(to bottom, #34d622, #66a30c);*/
+  background: #48ba2b;
+  background-image: -webkit-linear-gradient(top, #48ba2b, #138520);
+  background-image: -moz-linear-gradient(top, #48ba2b, #138520);
+  background-image: -ms-linear-gradient(top, #48ba2b, #138520);
+  background-image: -o-linear-gradient(top, #48ba2b, #138520);
+  background-image: linear-gradient(to bottom, #48ba2b, #138520);
+  // border: 1px solid #029E15;
+  border: none;
+  -webkit-border-radius: 3;
+  -moz-border-radius: 3;
+  border-radius: 3px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 12px;
+  font-weight: bold;
+  padding: 5px 10px 5px 10px;
+  text-decoration: none;
+}
+
+.affiliation_logo {
+  width: 200px !important;
+  //height: 70px !important;
+}
+@import "typography";
+@import "tables";

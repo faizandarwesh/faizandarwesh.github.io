@@ -1,1 +1,11 @@
-theme: jekyll-theme-cayman
+title: Muhammad Yaseen
+url: "https://muhammadyaseen.github.io"
+baseurl: ""
+repository: muhammadyaseen/muhammadyaseen.github.io
+markdown: kramdown
+
+tracking_id: #
+
+sass:
+    style: compressed
+    sass_dir: _sass
