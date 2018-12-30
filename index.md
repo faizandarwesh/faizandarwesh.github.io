@@ -10,9 +10,9 @@ I am Faizan Darwesh, I did my Bachelors in Computer Science from Karachi Univers
 
 My chief interest is in developing applications that are capable of solving and providing easy ways to perform regular tasks.
 I'm interested in working on technologies like Android / NodeJs, Angular and have also completed several online courses related to Android , Angular and NodeJs.
-----------------|-----------------------------
+<!--  ----------------|-----------------------------
 Research Areas  | <button class="skill-badge-green">Computer Vision</button> <button class="skill-badge-green">Artificial Intelligence</button> <button class="skill-badge-green">Machine Learning</button> <button class="skill-badge-green">Deep Learning</button>
-
+-->
 #### Skills Summary
 
 ----------------|-----------------------------
@@ -134,17 +134,13 @@ I did following online courses to enhance my knowledge of Web and Mobile App Dev
 |Android Basics : Networking <a class="ext-link-a" href="https://classroom.udacity.com/courses/ud843"><img class="ext-link-img" src="./images/ext-link.png" /></a>
 |Firebase in a Weekend (Android) <a class="ext-link-a" href="https://classroom.udacity.com/courses/ud0352"><img class="ext-link-img" src="./images/ext-link.png" /></a>
 
-## Scholarships, Honors, and Awards
+## Honors and Awards
 
 |-------------------------------------------------------
-| 7th Position out of 140 in the graduating batch (top 5%)
-| Won National ICT R&D Fund award for Final Year Project
-| Among top 10 in European Space Agency's [Mars Express Power Challenge](https://kelvins.esa.int/mars-express-power-challenge/leaderboard/)
+| Runners Up in RoboWars Competition at IBA ProBattle 2017
+| Participated in Speed Programming Competition held at NED in SPEC16.
+|
 | 2nd Position at DICE Health Exhibition and Competition 2015
-| Won Scholarship awarded by Hamdard Foundation for University studies, 2013-2017
-| Certificate of Merit awarded by the Principal of Adamjee Government Science College.
-| Won Scholarship awarded by Hamdard Foundation for College studies, 2011-2012
-| Cash Prize by Board of Secondary Education, Karachi (12th Position in city).
 
 ## I have programming experience in:
 
