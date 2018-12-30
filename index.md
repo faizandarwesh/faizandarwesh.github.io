@@ -18,8 +18,8 @@ Research Areas  | <button class="skill-badge-green">Computer Vision</button> <bu
 ----------------|-----------------------------
 Programming     |  <button class="skill-badge-blue">C</button> <button class="skill-badge-blue">Java</button>
 <button class="skill-badge-blue">C#</button> <button class="skill-badge-blue">PHP</button>
-Databases       | <button class="skill-badge-blue">Keras</button> <button class="skill-badge-blue">Tensorflow</button> <button class="skill-badge-blue">SciKit</button> <button class="skill-badge-blue">Spark MLLib</button>
-Big Data        | <button class="skill-badge-blue">Apache Hadoop</button> <button class="skill-badge-blue">Apache Spark</button> <button class="skill-badge-blue">Apache Flume</button> <button class="skill-badge-blue">Apache Hive</button>
+Databases       | <button class="skill-badge-blue">MySQL</button> <button class="skill-badge-blue">Firebase</button> <button class="skill-badge-blue">MongoDB</button> <button class="skill-badge-blue">Spark Sqlite</button>
+Technologies        | <button class="skill-badge-blue">Android</button> <button class="skill-badge-blue">NodeJs</button> <button class="skill-badge-blue">Apache Flume</button> <button class="skill-badge-blue">Apache Hive</button>
 Linux        | <button class="skill-badge-blue">CentOS</button> <button class="skill-badge-blue">Ubuntu</button> <button class="skill-badge-blue">LinuxMint</button>
 
 ## Projects
