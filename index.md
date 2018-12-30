@@ -59,7 +59,7 @@ Supervisor: Dr. Muhammad Khurram ([NED UET](http://www.neduet.edu.pk/cise/mkhurr
 I was among the first members of newly formed RCAI established at NED University. At RCAI I worked mainly on projects leveraging the Internet of Things (IoT) technology.
 -->
 * **Route Drawing Android App** [(Project Link)](https://github.com/faizandarwesh/CG-Project): In this application we provide a way for our user to find the route from location A to location B using Google Map API. Inorder to find the route user have to set pointer on his current location and then drag the pointer to drop off location so that app guided the track using Google Map Api.
-* **Angular & NodeJs Shopping List App** [(Project Link)](http://rcai.pk/ResearchCenterAI/project/p4.html): In this particular web-based application user can maintain a Shopping List and can add, edit and delete items from that list as per need. Behind the scenes it performs basic CRUD operations using MongoDB.
+* **Angular & NodeJs Shopping List App** [(Project Link)](https://github.com/faizandarwesh/NodeJs-Shopping-List-App): In this particular web-based application user can maintain a Shopping List and can add, edit and delete items from that list as per need. Behind the scenes it performs basic CRUD operations using MongoDB.
 
 <!--
 <img style="width: 340px; height: 255px;" src="./images/warehouse_device.png">
