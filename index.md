@@ -4,23 +4,23 @@ layout: default
 
 <img class="profile-picture" src="faizan.jpg">
 
-I am Faizan Darwesh, currently working as a Machine Learning Engineer at [Gaditek](http://www.gaditek.com) - a Cyber Security company. I did my Bachelors in Computer and Information Systems Engineering from NED University of Engineering and Technology, Pakistan.
+I am Faizan Darwesh, I did my Bachelors in Computer Science from Karachi University , Department of Computer Science UBIT, Pakistan.
 
 ## Research Interests
 
-My chief interest is in designing intelligent systems that are capable of learning and adaptation. I study algorithms that learn from structured and unstructured data, environment, labeled examples, expert behavior in an attempt to act in an artificially intelligent way. I have also worked on developing Big Data and ML pipelines and software infrastructure for Machine Learning.
-
+My chief interest is in developing applications that are capable of solving and providing easy ways to perform regular tasks.
+I'm interested in working on technologies like Android / NodeJs, Angular and have also completed several online courses related to Android , Angular and NodeJs.
 ----------------|-----------------------------
-Research Areas  | <button class="skill-badge-green">Computer Vision</button> <button class="skill-badge-green">Artificial Intelligence</button> <button class="skill-badge-green">Machine Learning</button> <button class="skill-badge-green">Deep Learning</button>
-
+<!--Research Areas  | <button class="skill-badge-green">Computer Vision</button> <button class="skill-badge-green">Artificial Intelligence</button> <button class="skill-badge-green">Machine Learning</button> <button class="skill-badge-green">Deep Learning</button>
+-->
 #### Skills Summary
 
 ----------------|-----------------------------
-Programming     | <button class="skill-badge-blue">Python</button> <button class="skill-badge-blue">C/C++</button> <button class="skill-badge-blue">Java</button> <button class="skill-badge-blue">C#</button> <button class="skill-badge-blue">PHP</button> <button class="skill-badge-blue">VCS (Git)</button>
-ML/DL Frameworks      | <button class="skill-badge-blue">Keras</button> <button class="skill-badge-blue">Tensorflow</button> <button class="skill-badge-blue">SciKit</button> <button class="skill-badge-blue">Spark MLLib</button>
+Programming     | <button class="skill-badge-blue">C/C++</button> <button class="skill-badge-blue">Java</button> <button class="skill-badge-blue">C#</button> <button class="skill-badge-blue">PHP</button> <button class="skill-badge-blue">VCS (Git)</button>
+<!-- ML/DL Frameworks      | <button class="skill-badge-blue">Keras</button> <button class="skill-badge-blue">Tensorflow</button> <button class="skill-badge-blue">SciKit</button> <button class="skill-badge-blue">Spark MLLib</button>
 Big Data        | <button class="skill-badge-blue">Apache Hadoop</button> <button class="skill-badge-blue">Apache Spark</button> <button class="skill-badge-blue">Apache Flume</button> <button class="skill-badge-blue">Apache Hive</button>
 Linux        | <button class="skill-badge-blue">CentOS</button> <button class="skill-badge-blue">Ubuntu</button> <button class="skill-badge-blue">LinuxMint</button>
-
+-->
 ## Research Experience
 ### TU Kaiserslautern / German Research Center for AI, Kaiserslautern, Germany
 <img style="width: 170px; height: 50px;" src="./images/tu_kaiserslautern.png">
@@ -155,7 +155,7 @@ I did following online courses to enhance my knowledge of Web and Mobile App Dev
 
 ## Databases I have worked with
 
-* MySQL, Firebase, Sqlite, MongoDb
+* MySQL, Firebase, Sqlite, MongoDB
 
 ## Other Interests
 
