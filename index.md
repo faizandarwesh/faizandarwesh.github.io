@@ -59,7 +59,7 @@ Supervisor: Dr. Muhammad Khurram ([NED UET](http://www.neduet.edu.pk/cise/mkhurr
 I was among the first members of newly formed RCAI established at NED University. At RCAI I worked mainly on projects leveraging the Internet of Things (IoT) technology.
 -->
 * **Route Drawing Android App** [(Project Link)](https://github.com/faizandarwesh/CG-Project): In this application we provide a way for our user to find the route from location A to location B using Google Map API. Inorder to find the route user have to set pointer on his current location and then drag the pointer to drop off location so that app guided the track using Google Map Api.
-* **Angular & NodeJs Shopping List App** [(Project Link)](http://rcai.pk/ResearchCenterAI/project/p4.html): In this project I worked on a device which helps warehouse workers avoid accidental injury-causing encounters with automated heavy-machinery and tools. My work included writing code **C/C++** for hardware interfacing.
+* **Angular & NodeJs Shopping List App** [(Project Link)](http://rcai.pk/ResearchCenterAI/project/p4.html): In this particular web-based application user can maintain a Shopping List and can add, edit and delete items from that list as per need. Behind the scenes it performs basic CRUD operations using MongoDB.
 
 <!--
 <img style="width: 340px; height: 255px;" src="./images/warehouse_device.png">
@@ -71,6 +71,17 @@ Project presentation: [A Smart Safety Gadget for Avoiding Accidents in Warehouse
 
 
 * **To-do-List App using NodeJs** [(Project Link)](https://github.com/faizandarwesh/To-do-List-App-using-Node-js): In this project I worked on basic CRUD operations using MongoDB to create a simple to-do-list app that holds the task that user want to do in future and keep track of them.
+
+
+* **Vending Machine Project** [(Project Link)](https://github.com/faizandarwesh/Vending-Machine-C-): This is a C# form based application that is useful for purchasing items like chips, drinks and some other items.
+
+
+* **Food Ordering Android App** [(Project Link)](https://github.com/faizandarwesh/To-do-List-App-using-Node-js): This application is based on Ordering food items from selected categories and add all the order to the ordered list and send all the order details to the user via email.
+
+
+* **Friendly Chat Android App** [(Project Link)](https://github.com/faizandarwesh/To-do-List-App-using-Node-js): This project is based on the implementation of a group chat application using Firebase Database. By using this app user can create an account and then able to change and exchange media files with group members.
+
+* **Pizza Zone App** [(Project Link)](https://github.com/faizandarwesh/Pizza-Project): This is a C# form based application that is used for the purposes of ordering pizza. It includes some other items like drinks and salads and also maintain billing information of the order.  
 
 <!--<img style="width: 340px; height: 255px;" src="./images/oxi_pres.jpg">-->
 
