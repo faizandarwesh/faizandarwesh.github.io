@@ -6,21 +6,21 @@ layout: default
 
 I am Faizan Darwesh, I did my Bachelors in Computer Science from Karachi University , Department of Computer Science UBIT, Pakistan.
 
-## Research Interests
+## Chief Interests
 
 My chief interest is in developing applications that are capable of solving and providing easy ways to perform regular tasks.
 I'm interested in working on technologies like Android / NodeJs, Angular and have also completed several online courses related to Android , Angular and NodeJs.
 ----------------|-----------------------------
-<!--Research Areas  | <button class="skill-badge-green">Computer Vision</button> <button class="skill-badge-green">Artificial Intelligence</button> <button class="skill-badge-green">Machine Learning</button> <button class="skill-badge-green">Deep Learning</button>
--->
+Research Areas  | <button class="skill-badge-green">Computer Vision</button> <button class="skill-badge-green">Artificial Intelligence</button> <button class="skill-badge-green">Machine Learning</button> <button class="skill-badge-green">Deep Learning</button>
+
 #### Skills Summary
 
 ----------------|-----------------------------
 Programming     | <button class="skill-badge-blue">C/C++</button> <button class="skill-badge-blue">Java</button> <button class="skill-badge-blue">C#</button> <button class="skill-badge-blue">PHP</button> <button class="skill-badge-blue">VCS (Git)</button>
-<!-- ML/DL Frameworks      | <button class="skill-badge-blue">Keras</button> <button class="skill-badge-blue">Tensorflow</button> <button class="skill-badge-blue">SciKit</button> <button class="skill-badge-blue">Spark MLLib</button>
+ ML/DL Frameworks      | <button class="skill-badge-blue">Keras</button> <button class="skill-badge-blue">Tensorflow</button> <button class="skill-badge-blue">SciKit</button> <button class="skill-badge-blue">Spark MLLib</button>
 Big Data        | <button class="skill-badge-blue">Apache Hadoop</button> <button class="skill-badge-blue">Apache Spark</button> <button class="skill-badge-blue">Apache Flume</button> <button class="skill-badge-blue">Apache Hive</button>
 Linux        | <button class="skill-badge-blue">CentOS</button> <button class="skill-badge-blue">Ubuntu</button> <button class="skill-badge-blue">LinuxMint</button>
--->
+
 ## Research Experience
 ### TU Kaiserslautern / German Research Center for AI, Kaiserslautern, Germany
 <img style="width: 170px; height: 50px;" src="./images/tu_kaiserslautern.png">
