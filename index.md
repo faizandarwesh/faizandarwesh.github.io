@@ -21,7 +21,7 @@ Programming     | <button class="skill-badge-blue">C/C++</button> <button class=
 Big Data        | <button class="skill-badge-blue">Apache Hadoop</button> <button class="skill-badge-blue">Apache Spark</button> <button class="skill-badge-blue">Apache Flume</button> <button class="skill-badge-blue">Apache Hive</button>
 Linux        | <button class="skill-badge-blue">CentOS</button> <button class="skill-badge-blue">Ubuntu</button> <button class="skill-badge-blue">LinuxMint</button>
 
-## Research Experience
+## Projects
 ### TU Kaiserslautern / German Research Center for AI, Kaiserslautern, Germany
 <img style="width: 170px; height: 50px;" src="./images/tu_kaiserslautern.png">
 <img style="width: 170px; height: 50px;" src="./images/dfki.jpg">
@@ -153,13 +153,13 @@ I did following online courses to enhance my knowledge of Web and Mobile App Dev
 
 * MySQL, Firebase, Sqlite, MongoDB
 
-## Other Interests
+<!-- ## Other Interests
 
 * History (Contemporary, Medieval, Antiquity)
 * Philosophy
 * Amateur Astronomy, [Astronomy Society](https://www.facebook.com/KarachiAstronomy/)
 * Literature, Reading ([2016](https://yaseenx.wordpress.com/2017/01/21/what-i-read-in-2016/), [2017](https://yaseenx.wordpress.com/2018/02/11/what-i-read-in-2017/)), Writing ([Blog](http://yaseenx.wordpress.com))
-
+-->
 <a name="contact" />
 ## Contact
 
