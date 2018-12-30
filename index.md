@@ -18,8 +18,8 @@ Research Areas  | <button class="skill-badge-green">Computer Vision</button> <bu
 ----------------|-----------------------------
 Programming     |  <button class="skill-badge-blue">C</button> <button class="skill-badge-blue">Java</button>
 <button class="skill-badge-blue">C#</button> <button class="skill-badge-blue">PHP</button>
-Databases       | <button class="skill-badge-blue">MySQL</button> <button class="skill-badge-blue">Firebase</button> <button class="skill-badge-blue">MongoDB</button> <button class="skill-badge-blue">Sqlite</button>
-Technologies        | <button class="skill-badge-green">Android</button> <button class="skill-badge-green">NodeJs</button> <button class="skill-badge-green">VCS (Git)</button>
+Databases             | <button class="skill-badge-blue">MySQL</button> <button class="skill-badge-blue">Firebase</button> <button class="skill-badge-blue">MongoDB</button> <button class="skill-badge-blue">Sqlite</button>
+Technologies    | <button class="skill-badge-green">Android</button> <button class="skill-badge-green">NodeJs</button> <button class="skill-badge-green">VCS (Git)</button>
 
 ## Projects
 <!--### TU Kaiserslautern / German Research Center for AI, Kaiserslautern, Germany
