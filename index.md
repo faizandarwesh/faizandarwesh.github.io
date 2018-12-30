@@ -20,7 +20,6 @@ Programming     |  <button class="skill-badge-blue">C</button> <button class="sk
 <button class="skill-badge-blue">C#</button> <button class="skill-badge-blue">PHP</button>
 Databases       | <button class="skill-badge-blue">MySQL</button> <button class="skill-badge-blue">Firebase</button> <button class="skill-badge-blue">MongoDB</button> <button class="skill-badge-blue">Sqlite</button>
 Technologies        | <button class="skill-badge-green">Android</button> <button class="skill-badge-green">NodeJs</button> <button class="skill-badge-green">VCS (Git)</button>
-Linux        | <button class="skill-badge-blue">CentOS</button> <button class="skill-badge-blue">Ubuntu</button> <button class="skill-badge-blue">LinuxMint</button>
 
 ## Projects
 <!--### TU Kaiserslautern / German Research Center for AI, Kaiserslautern, Germany
