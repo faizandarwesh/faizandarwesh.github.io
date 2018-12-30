@@ -60,6 +60,7 @@ I was among the first members of newly formed RCAI established at NED University
 -->
 * **Route Drawing Android App** [(Project Link)](https://github.com/faizandarwesh/CG-Project): In this application we provide a way for our user to find the route from location A to location B using Google Map API. Inorder to find the route user have to set pointer on his current location and then drag the pointer to drop off location so that app guided the track using Google Map Api.
 * **Angular & NodeJs Shopping List App** [(Project Link)](http://rcai.pk/ResearchCenterAI/project/p4.html): In this project I worked on a device which helps warehouse workers avoid accidental injury-causing encounters with automated heavy-machinery and tools. My work included writing code **C/C++** for hardware interfacing.
+
 <!--
 <img style="width: 340px; height: 255px;" src="./images/warehouse_device.png">
 
@@ -67,9 +68,11 @@ I was among the first members of newly formed RCAI established at NED University
 
 Project presentation: [A Smart Safety Gadget for Avoiding Accidents in Warehouse Environment](https://www.slideshare.net/MuhammadYaseenAftab1/a-smart-safety-gadget-for-avoiding-accidents-in-warehouse-environment)
 -->
+
+
 * **To-do-List App using NodeJs** [(Project Link)](https://github.com/faizandarwesh/To-do-List-App-using-Node-js): In this project I worked on basic CRUD operations using MongoDB to create a simple to-do-list app that holds the task that user want to do in future and keep track of them.
 
-<img style="width: 340px; height: 255px;" src="./images/oxi_pres.jpg">
+<!--<img style="width: 340px; height: 255px;" src="./images/oxi_pres.jpg">-->
 
 <!-- ## Work Experience
 
