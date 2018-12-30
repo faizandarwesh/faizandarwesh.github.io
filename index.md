@@ -17,8 +17,9 @@ Research Areas  | <button class="skill-badge-green">Computer Vision</button> <bu
 
 ----------------|-----------------------------
 Programming     | <button class="skill-badge-blue">C/C++</button> <button class="skill-badge-blue">Java</button> <button class="skill-badge-blue">C#</button> <button class="skill-badge-blue">PHP</button> <button class="skill-badge-blue">VCS (Git)</button>
- Databases      | <button class="skill-badge-blue"> MySQL</button> <button class="skill-badge-blue">Firebase</button> <button class="skill-badge-blue">MongoDB</button> <button class="skill-badge-blue">Spark Sqlite</button>
-Technologies       | <button class="skill-badge-green">NodeJs</button> <button class="skill-badge-green">Android</button>
+ ML/DL Frameworks      | <button class="skill-badge-blue">Keras</button> <button class="skill-badge-blue">Tensorflow</button> <button class="skill-badge-blue">SciKit</button> <button class="skill-badge-blue">Spark MLLib</button>
+Big Data        | <button class="skill-badge-blue">Apache Hadoop</button> <button class="skill-badge-blue">Apache Spark</button> <button class="skill-badge-blue">Apache Flume</button> <button class="skill-badge-blue">Apache Hive</button>
+Linux        | <button class="skill-badge-blue">CentOS</button> <button class="skill-badge-blue">Ubuntu</button> <button class="skill-badge-blue">LinuxMint</button>
 
 ## Projects
 <!--### TU Kaiserslautern / German Research Center for AI, Kaiserslautern, Germany
@@ -72,7 +73,7 @@ Project presentation: [A Smart Safety Gadget for Avoiding Accidents in Warehouse
 * **To-do-List App using NodeJs** [(Project Link)](https://github.com/faizandarwesh/To-do-List-App-using-Node-js): In this project I worked on basic CRUD operations using MongoDB to create a simple to-do-list app that holds the task that user want to do in future and keep track of them.
 
 
-* **Vending Machine Project** [(Project Link)](https://github.com/faizandarwesh/Vending-Machine-C-): This is a C# form based application that is useful for purchasing items like chips, drinks and some other items.
+* **Vending Machine Project** [(Project Link)](https://github.com/faizandarwesh/To-do-List-App-using-Node-js): This is a C# form based application that is useful for purchasing items like chips, drinks and some other items.
 
 
 * **Food Ordering Android App** [(Project Link)](https://github.com/faizandarwesh/To-do-List-App-using-Node-js): This application is based on Ordering food items from selected categories and add all the order to the ordered list and send all the order details to the user via email.
@@ -178,3 +179,4 @@ I did following online courses to enhance my knowledge of Web and Mobile App Dev
 ## Contact
 
 * faizandarwesh@outlook.com
+* [@nisaydhm](twitter.com/nisaydhm)
