@@ -179,4 +179,5 @@ I did following online courses to enhance my knowledge of Web and Mobile App Dev
 ## Contact
 
 * faizandarwesh@outlook.com
-* [@nisaydhm](twitter.com/nisaydhm)
+<!--* [@nisaydhm](twitter.com/nisaydhm)
+-->
