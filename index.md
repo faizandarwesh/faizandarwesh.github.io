@@ -58,16 +58,16 @@ Supervisor: Dr. Muhammad Khurram ([NED UET](http://www.neduet.edu.pk/cise/mkhurr
 
 I was among the first members of newly formed RCAI established at NED University. At RCAI I worked mainly on projects leveraging the Internet of Things (IoT) technology.
 -->
-* **Smart Agriculture** [(Project Link)](http://rcai.pk/ResearchCenterAI/project/pp1.html): In this German Academic Exchange Service (DAAD) funded project, as part of hardware design team I worked on several prototypes based on different Arduino and custom boards. (weblink)
-* **Smart Warehouse** [(Project Link)](http://rcai.pk/ResearchCenterAI/project/p4.html): In this project I worked on a device which helps warehouse workers avoid accidental injury-causing encounters with automated heavy-machinery and tools. My work included writing code **C/C++** for hardware interfacing.
-
+* **Route Drawing Android App** [(Project Link)](https://github.com/faizandarwesh/CG-Project): In this application we provide a way for our user to find the route from location A to location B using Google Map API. Inorder to find the route user have to set pointer on his current location and then drag the pointer to drop off location so that app guided the track using Google Map Api.
+* **Angular & NodeJs Shopping List App** [(Project Link)](http://rcai.pk/ResearchCenterAI/project/p4.html): In this project I worked on a device which helps warehouse workers avoid accidental injury-causing encounters with automated heavy-machinery and tools. My work included writing code **C/C++** for hardware interfacing.
+<!--
 <img style="width: 340px; height: 255px;" src="./images/warehouse_device.png">
 
 [Blog Post](https://yaseenx.wordpress.com/2016/06/11/presenting-my-paper-at-1st-ieec-conference/) about project
 
 Project presentation: [A Smart Safety Gadget for Avoiding Accidents in Warehouse Environment](https://www.slideshare.net/MuhammadYaseenAftab1/a-smart-safety-gadget-for-avoiding-accidents-in-warehouse-environment)
-
-* **Oximeter** [(Project Link)](http://rcai.pk/ResearchCenterAI/project/p8.html): In this project I worked on a Bluetooth enabled low-power oximeter which measures blood-oxygen level and heart rate. My responsibilities included writing code in **C/C++** for interfacing the hardware components. I also developed an Android app **Java** for operating device via smartphone.
+-->
+* **To-do-List App using NodeJs** [(Project Link)](https://github.com/faizandarwesh/To-do-List-App-using-Node-js): In this project I worked on basic CRUD operations using MongoDB to create a simple to-do-list app that holds the task that user want to do in future and keep track of them.
 
 <img style="width: 340px; height: 255px;" src="./images/oxi_pres.jpg">
 
