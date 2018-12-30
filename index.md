@@ -22,7 +22,7 @@ Big Data        | <button class="skill-badge-blue">Apache Hadoop</button> <butto
 Linux        | <button class="skill-badge-blue">CentOS</button> <button class="skill-badge-blue">Ubuntu</button> <button class="skill-badge-blue">LinuxMint</button>
 
 ## Projects
-### TU Kaiserslautern / German Research Center for AI, Kaiserslautern, Germany
+<!--### TU Kaiserslautern / German Research Center for AI, Kaiserslautern, Germany
 <img style="width: 170px; height: 50px;" src="./images/tu_kaiserslautern.png">
 <img style="width: 170px; height: 50px;" src="./images/dfki.jpg">
 
@@ -57,7 +57,7 @@ As part of my project study, I gave following 2 presentations:
 Supervisor: Dr. Muhammad Khurram ([NED UET](http://www.neduet.edu.pk/cise/mkhurram.html) / [RCAI](http://rcai.pk/ResearchCenterAI/ourteam/director.html))
 
 I was among the first members of newly formed RCAI established at NED University. At RCAI I worked mainly on projects leveraging the Internet of Things (IoT) technology.
-
+-->
 * **Smart Agriculture** [(Project Link)](http://rcai.pk/ResearchCenterAI/project/pp1.html): In this German Academic Exchange Service (DAAD) funded project, as part of hardware design team I worked on several prototypes based on different Arduino and custom boards. (weblink)
 * **Smart Warehouse** [(Project Link)](http://rcai.pk/ResearchCenterAI/project/p4.html): In this project I worked on a device which helps warehouse workers avoid accidental injury-causing encounters with automated heavy-machinery and tools. My work included writing code **C/C++** for hardware interfacing.
 
