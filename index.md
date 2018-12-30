@@ -123,7 +123,7 @@ Rich Internet Applications using Google Web Toolkit (Java)
 
 ## Online Courses and Certifications
 
-I did following online courses to enhance my knowledge of Web and Mobile development
+I did following online courses to enhance my knowledge of Web and Mobile App Development
 
 |-------------------
 |Become a MEAN Stack Developer <a class="ext-link-a" href="https://www.udemy.com/become-a-mean-stack-developer-mongodb-expressangularnode/learn/v4/overview"><img class="ext-link-img" src="./images/ext-link.png" /></a>
