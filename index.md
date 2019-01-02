@@ -75,7 +75,7 @@ Project presentation: [A Smart Safety Gadget for Avoiding Accidents in Warehouse
 * **To-do-List App using NodeJS** [(Project Link)](https://github.com/faizandarwesh/To-do-List-App-using-Node-js): In this project I worked on basic CRUD operations using MongoDB to create a simple to-do-list app that holds the tasks that user wants to do in future and keep track of them.
 
 
-* **Vending Machine Project** [(Project Link)](https://github.com/faizandarwesh/To-do-List-App-using-Node-js): This is a C# Form based application that is useful for purchasing items like chips, drinks and some other items.
+* **Vending Machine Project** [(Project Link)](https://github.com/faizandarwesh/Vending-Machine-C-): This is a C# Form based application that is useful for purchasing items like chips, drinks and some other items.
 
 
 * **Food Ordering Android App** [(Project Link)](https://github.com/faizandarwesh/Vending-Machine-C-): This application is lets the user order food from selected categories. Ordered food is displayed in an ordered list and order details are sent to the user via email.
