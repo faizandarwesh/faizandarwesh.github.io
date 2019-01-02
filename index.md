@@ -78,10 +78,10 @@ Project presentation: [A Smart Safety Gadget for Avoiding Accidents in Warehouse
 * **Vending Machine Project** [(Project Link)](https://github.com/faizandarwesh/Vending-Machine-C-): This is a C# Form based application that is useful for purchasing items like chips, drinks and some other items.
 
 
-* **Food Ordering Android App** [(Project Link)](https://github.com/faizandarwesh/Vending-Machine-C-): This application is lets the user order food from selected categories. Ordered food is displayed in an ordered list and order details are sent to the user via email.
+* **Food Ordering Android App** [(Project Link)](https://github.com/faizandarwesh/Food-Ordering-App): This application is lets the user order food from selected categories. Ordered food is displayed in an ordered list and order details are sent to the user via email.
 
 
-* **Friendly Chat Android App** [(Project Link)](https://github.com/faizandarwesh/To-do-List-App-using-Node-js): This is a group chat application which uses Firebase Database. In the app user can create an account and is also able to chat and exchange media files with group members.
+* **Friendly Chat Android App** [(Project Link)](https://github.com/faizandarwesh/Friendly-Chat-App): This is a group chat application which uses Firebase Database. In the app user can create an account and is also able to chat and exchange media files with group members.
 
 * **Pizza Zone App** [(Project Link)](https://github.com/faizandarwesh/Pizza-Project): This is a C# Form based application for  ordering pizza. It includes some other items like drinks and salads and also maintains billing information of the order.  
 
