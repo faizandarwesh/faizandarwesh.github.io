@@ -4,12 +4,12 @@ layout: default
 
 <img class="profile-picture" src="faizan.jpg">
 
-I am Faizan Darwesh, I did my Bachelors in Computer Science from Karachi University , Department of Computer Science UBIT, Pakistan.
+I am Faizan Darwesh, I did my Bachelors in Computer Science from Karachi University, Department of Computer Science UBIT, Pakistan.
 
-## Chief Interests
+## Interests
 
-My chief interest is in developing applications that are capable of solving and providing easy ways to perform regular tasks.
-I'm interested in working on technologies like Android / NodeJs, Angular and have also completed several online courses related to Android , Angular and NodeJs.
+I am interested in developing technological solutions to challenging problems covering a diverse range of use cases. I primarily work with Web and Mobile technologies like Android, NodeJS, and Angular. In addition to formal university courses I have also completed several online courses related to these technologies specifically to enhance my skills.
+
 <!--  ----------------|-----------------------------
 Research Areas  | <button class="skill-badge-green">Computer Vision</button> <button class="skill-badge-green">Artificial Intelligence</button> <button class="skill-badge-green">Machine Learning</button> <button class="skill-badge-green">Deep Learning</button>
 -->
@@ -57,8 +57,11 @@ Supervisor: Dr. Muhammad Khurram ([NED UET](http://www.neduet.edu.pk/cise/mkhurr
 
 I was among the first members of newly formed RCAI established at NED University. At RCAI I worked mainly on projects leveraging the Internet of Things (IoT) technology.
 -->
-* **Route Drawing Android App** [(Project Link)](https://github.com/faizandarwesh/CG-Project): In this application we provide a way for our user to find the route from location A to location B using Google Map API. Inorder to find the route user have to set pointer on his current location and then drag the pointer to drop off location so that app guided the track using Google Map Api.
-* **Angular & NodeJs Shopping List App** [(Project Link)](https://github.com/faizandarwesh/NodeJs-Shopping-List-App): In this particular web-based application user can maintain a Shopping List and can add, edit and delete items from that list as per need. Behind the scenes it performs basic CRUD operations using MongoDB.
+Following are some projects (with link to GitHub code repo) I have worked on:
+
+* **Route Drawing Android App** [(Project Link)](https://github.com/faizandarwesh/CG-Project): This application lets user find the route from location A to location B using Google Map API. To find the route user has to set pointer on his current location and then drag the pointer to drop off location so that app can guide the track using Google Map API.
+
+* **Angular & NodeJS Shopping List App** [(Project Link)](https://github.com/faizandarwesh/NodeJs-Shopping-List-App): In this webapp user can maintain a Shopping List and can add, edit and delete items from that list as per need. Behind the scenes it performs basic CRUD operations using MongoDB.
 
 <!--
 <img style="width: 340px; height: 255px;" src="./images/warehouse_device.png">
@@ -69,18 +72,18 @@ Project presentation: [A Smart Safety Gadget for Avoiding Accidents in Warehouse
 -->
 
 
-* **To-do-List App using NodeJs** [(Project Link)](https://github.com/faizandarwesh/To-do-List-App-using-Node-js): In this project I worked on basic CRUD operations using MongoDB to create a simple to-do-list app that holds the task that user want to do in future and keep track of them.
+* **To-do-List App using NodeJS** [(Project Link)](https://github.com/faizandarwesh/To-do-List-App-using-Node-js): In this project I worked on basic CRUD operations using MongoDB to create a simple to-do-list app that holds the tasks that user wants to do in future and keep track of them.
 
 
-* **Vending Machine Project** [(Project Link)](https://github.com/faizandarwesh/To-do-List-App-using-Node-js): This is a C# form based application that is useful for purchasing items like chips, drinks and some other items.
+* **Vending Machine Project** [(Project Link)](https://github.com/faizandarwesh/To-do-List-App-using-Node-js): This is a C# Form based application that is useful for purchasing items like chips, drinks and some other items.
 
 
-* **Food Ordering Android App** [(Project Link)](https://github.com/faizandarwesh/To-do-List-App-using-Node-js): This application is based on Ordering food items from selected categories and add all the order to the ordered list and send all the order details to the user via email.
+* **Food Ordering Android App** [(Project Link)](https://github.com/faizandarwesh/To-do-List-App-using-Node-js): This application is lets the user order food from selected categories. Ordered food is displayed in an ordered list and order details are sent to the user via email.
 
 
-* **Friendly Chat Android App** [(Project Link)](https://github.com/faizandarwesh/To-do-List-App-using-Node-js): This project is based on the implementation of a group chat application using Firebase Database. By using this app user can create an account and then able to change and exchange media files with group members.
+* **Friendly Chat Android App** [(Project Link)](https://github.com/faizandarwesh/To-do-List-App-using-Node-js): This is a group chat application which uses Firebase Database. In the app user can create an account and is also able to chat and exchange media files with group members.
 
-* **Pizza Zone App** [(Project Link)](https://github.com/faizandarwesh/Pizza-Project): This is a C# form based application that is used for the purposes of ordering pizza. It includes some other items like drinks and salads and also maintain billing information of the order.  
+* **Pizza Zone App** [(Project Link)](https://github.com/faizandarwesh/Pizza-Project): This is a C# Form based application for  ordering pizza. It includes some other items like drinks and salads and also maintains billing information of the order.  
 
 <!--<img style="width: 340px; height: 255px;" src="./images/oxi_pres.jpg">-->
 
@@ -136,7 +139,7 @@ Rich Internet Applications using Google Web Toolkit (Java)
 -->
 ## Online Courses and Certifications
 
-I did following online courses to enhance my knowledge of Web and Mobile App Development
+I completed following online courses to enhance my knowledge of Web and Mobile App Development
 
 |-------------------
 |Become a MEAN Stack Developer <a class="ext-link-a" href="https://www.udemy.com/become-a-mean-stack-developer-mongodb-expressangularnode/learn/v4/overview"><img class="ext-link-img" src="./images/ext-link.png" /></a>
