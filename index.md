@@ -4,7 +4,7 @@ layout: default
 
 <img class="profile-picture" src="faizan.jpg">
 
-I am Faizan Darwesh, I did my Bachelors in Computer Science from Karachi University, Department of Computer Science UBIT Karachi, Pakistan.
+I am Faizan Darwesh, currently working as a Software Developer at Genetech Solutions and working on technologies like Android and Flutter. I did my Bachelors in Computer Science from Karachi University, Department of Computer Science UBIT Karachi, Pakistan.
 
 ## Interests
 
@@ -17,7 +17,7 @@ Research Areas  | <button class="skill-badge-green">Computer Vision</button> <bu
 
 ----------------|-----------------------------
 Programming     |  <button class="skill-badge-blue">Java</button> <button class="skill-badge-blue">Kotlin</button> <button class="skill-badge-blue">C#</button> <button class="skill-badge-blue">Dart</button>
-Databases             | <button class="skill-badge-blue">MySQL</button> <button class="skill-badge-blue">Firebase</button> <button class="skill-badge-blue">MongoDB</button> <button class="skill-badge-blue">Sqlite</button>
+Databases             | <button class="skill-badge-blue">MySQL</button> <button class="skill-badge-blue">Firebase</button>  <button class="skill-badge-blue">Sqlite</button>
 Technologies    | <button class="skill-badge-green">Android</button>  <button class="skill-badge-green">Git</button>
 
 ## Projects
@@ -61,13 +61,13 @@ Following are some projects (with link to GitHub code repo) I have worked on:
 
 * **BiteReel Flutter App** [(Project Link)](https://github.com/faizandarwesh/NodeJs-Shopping-List-App): It is social networking app with all features like post,like,comment,share,push notifications etc. It is completely based on flutter with Getx framework and SharedPreferences for storing user informations.
 
-* **Taste Of Blue Android App** [(Project Link)](https://github.com/faizandarwesh/NodeJs-Shopping-List-App): It is social networking app with all features like DialogFlow chat,Book flights,hotels,cars and etc. Technology wise it is a native android app with kotlin code base, for database it uses room persistense library, Retrofit Client, Kotlin coroutines and etc.
+* **Taste Of Blue App** [(Project Link)](https://github.com/faizandarwesh/NodeJs-Shopping-List-App): It is social networking android app with all features like DialogFlow chat,Book flights,hotels,cars and etc. Technology wise it is a native android app with kotlin code base, for database it uses room persistense library, Retrofit Client, Kotlin coroutines and etc.
 
-* **Tee Square Android App** [(Project Link)](https://github.com/faizandarwesh/NodeJs-Shopping-List-App): It is an educational app that is used by some schools to educate the childrens in a modern way. It contains a complete architecture for children educations with courses like english,urdu,maths etc with there respective lessons and quizes of various types. Technology wise it is a native android app with Java code base, for database it uses room persistense library, Retrofit Client and it provides great grooming in my debugging skills.
+* **Tee Square App** [(Project Link)](https://github.com/faizandarwesh/NodeJs-Shopping-List-App): It is an educational android app that is used by some schools to educate the childrens in a modern way. It contains a complete architecture for children educations with courses like english,urdu,maths etc with there respective lessons and quizes of various types. Technology wise it is a native android app with Java code base, for database it uses room persistense library, Retrofit Client and it provides great grooming in my debugging skills.
 
-* **Battery Percentage Android App** [(Project Link)](https://github.com/faizandarwesh/NodeJs-Shopping-List-App): It is a small product that will provide the phone's battery percentage and its estimated battery time.This app contains features like Broadcast Receivers, Notifications etc.
+* **Battery Percentage App** [(Project Link)](https://github.com/faizandarwesh/NodeJs-Shopping-List-App): It is a small product that will provide the phone's battery percentage and its estimated battery time.This is an android app contains features like Broadcast Receivers, Notifications etc.
 
-* **Pocket Ruler Android App** [(Project Link)](https://github.com/faizandarwesh/NodeJs-Shopping-List-App): It is a small product that contains a handy ruler for the ease of use inorder to measure things by using the mobile app.
+* **Pocket Ruler App** [(Project Link)](https://github.com/faizandarwesh/NodeJs-Shopping-List-App): It is an android app that contains a handy ruler for the ease of use inorder to measure things by using the mobile app.
 
 * **Tilt Alert Android App** [(Project Link)](https://github.com/faizandarwesh/NodeJs-Shopping-List-App): It is a product that contains a handy tool for measuring how flat the surface is its pretty useful for workers to measure surface straightness by using the mobile app.
 
@@ -167,14 +167,15 @@ I completed following online courses to enhance my knowledge of Web and Mobile A
 
 ## I have programming experience in:
 
-* Java, C, C#
-* PHP, HTML, CSS, NodeJs , Angular
+* Java, Kotlin, C# and Dart
+* PHP, HTML, CSS,
 * Version Control Systems e.g. Git
 * Android programming
+* Flutter development
 
 ## Databases I have worked with
 
-* MySQL, Firebase, Sqlite, MongoDB
+* MySQL, Firebase, Sqlite,
 
 <!-- ## Other Interests
 
