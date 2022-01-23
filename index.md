@@ -8,7 +8,7 @@ I am Faizan Darwesh, I did my Bachelors in Computer Science from Karachi Univers
 
 ## Interests
 
-I am interested in developing technological solutions to challenging problems covering a diverse range of use cases. I primarily work with Web and Mobile technologies like Android, NodeJS, and Angular. In addition to formal university courses I have also completed several online courses related to these technologies specifically to enhance my skills.
+I am interested in developing technological solutions to challenging problems covering a diverse range of use cases. I primarily work with Mobile technologies like Android and Flutter. In addition to formal university courses I have also completed several online courses related to these technologies specifically to enhance my skills.
 
 <!--  ----------------|-----------------------------
 Research Areas  | <button class="skill-badge-green">Computer Vision</button> <button class="skill-badge-green">Artificial Intelligence</button> <button class="skill-badge-green">Machine Learning</button> <button class="skill-badge-green">Deep Learning</button>
@@ -16,9 +16,9 @@ Research Areas  | <button class="skill-badge-green">Computer Vision</button> <bu
 #### Skills Summary
 
 ----------------|-----------------------------
-Programming     |  <button class="skill-badge-blue">C</button> <button class="skill-badge-blue">Java</button> <button class="skill-badge-blue">C#</button> <button class="skill-badge-blue">PHP</button>
+Programming     |  <button class="skill-badge-blue">Java</button> <button class="skill-badge-blue">Kotlin</button> <button class="skill-badge-blue">C#</button> <button class="skill-badge-blue">Dart</button>
 Databases             | <button class="skill-badge-blue">MySQL</button> <button class="skill-badge-blue">Firebase</button> <button class="skill-badge-blue">MongoDB</button> <button class="skill-badge-blue">Sqlite</button>
-Technologies    | <button class="skill-badge-green">Android</button> <button class="skill-badge-green">NodeJS</button> <button class="skill-badge-green">Git</button>
+Technologies    | <button class="skill-badge-green">Android</button>  <button class="skill-badge-green">Git</button>
 
 ## Projects
 <!--### TU Kaiserslautern / German Research Center for AI, Kaiserslautern, Germany
@@ -59,9 +59,19 @@ I was among the first members of newly formed RCAI established at NED University
 -->
 Following are some projects (with link to GitHub code repo) I have worked on:
 
-* **Route Drawing Android App** [(Project Link)](https://github.com/faizandarwesh/CG-Project): This application lets user find the route from location A to location B using Google Map API. To find the route user has to set pointer on his current location and then drag the pointer to drop off location so that app can guide the track using Google Map API.
+* **BiteReel Flutter App** [(Project Link)](https://github.com/faizandarwesh/NodeJs-Shopping-List-App): It is social networking app with all features like post,like,comment,share,push notifications etc. It is completely based on flutter with Getx framework and SharedPreferences for storing user informations.
 
-* **Angular & NodeJS Shopping List App** [(Project Link)](https://github.com/faizandarwesh/NodeJs-Shopping-List-App): In this webapp user can maintain a Shopping List and can add, edit and delete items from that list as per need. Behind the scenes it performs basic CRUD operations using MongoDB.
+* **Taste Of Blue Android App** [(Project Link)](https://github.com/faizandarwesh/NodeJs-Shopping-List-App): It is social networking app with all features like DialogFlow chat,Book flights,hotels,cars and etc. Technology wise it is a native android app with kotlin code base, for database it uses room persistense library, Retrofit Client, Kotlin coroutines and etc.
+
+* **Tee Square Android App** [(Project Link)](https://github.com/faizandarwesh/NodeJs-Shopping-List-App): It is an educational app that is used by some schools to educate the childrens in a modern way. It contains a complete architecture for children educations with courses like english,urdu,maths etc with there respective lessons and quizes of various types. Technology wise it is a native android app with Java code base, for database it uses room persistense library, Retrofit Client and it provides great grooming in my debugging skills.
+
+* **Battery Percentage Android App** [(Project Link)](https://github.com/faizandarwesh/NodeJs-Shopping-List-App): It is a small product that will provide the phone's battery percentage and its estimated battery time.This app contains features like Broadcast Receivers, Notifications etc.
+
+* **Pocket Ruler Android App** [(Project Link)](https://github.com/faizandarwesh/NodeJs-Shopping-List-App): It is a small product that contains a handy ruler for the ease of use inorder to measure things by using the mobile app.
+
+* **Tilt Alert Android App** [(Project Link)](https://github.com/faizandarwesh/NodeJs-Shopping-List-App): It is a product that contains a handy tool for measuring how flat the surface is its pretty useful for workers to measure surface straightness by using the mobile app.
+
+* **Route Drawing Android App** [(Project Link)](https://github.com/faizandarwesh/CG-Project): This application lets user find the route from location A to location B using Google Map API. To find the route user has to set pointer on his current location and then drag the pointer to drop off location so that app can guide the track using Google Map API.
 
 <!--
 <img style="width: 340px; height: 255px;" src="./images/warehouse_device.png">
@@ -70,10 +80,6 @@ Following are some projects (with link to GitHub code repo) I have worked on:
 
 Project presentation: [A Smart Safety Gadget for Avoiding Accidents in Warehouse Environment](https://www.slideshare.net/MuhammadYaseenAftab1/a-smart-safety-gadget-for-avoiding-accidents-in-warehouse-environment)
 -->
-
-
-* **To-do-List App using NodeJS** [(Project Link)](https://github.com/faizandarwesh/To-do-List-App-using-Node-js): In this project I worked on basic CRUD operations using MongoDB to create a simple to-do-list app that holds the tasks that user wants to do in future and keep track of them.
-
 
 * **Vending Machine Project** [(Project Link)](https://github.com/faizandarwesh/Vending-Machine-C-): This is a C# Form based application that is useful for purchasing items like chips, drinks and some other items.
 
