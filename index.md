@@ -57,11 +57,11 @@ Following are some projects (with link to GitHub code repo) I have worked on:
 
 ## Online Courses and Certifications
 
-I completed following online courses to enhance my knowledge of Web and Mobile App Development
+I completed following online courses to enhance my knowledge of Mobile App Development
 
 |-------------------
 |Android Basics : User Input <a class="ext-link-a" href="https://classroom.udacity.com/courses/ud837"><img class="ext-link-img" src="./images/ext-link.png" /></a>
-|PHP with MySQL Essential Training <a class="ext-link-a" href="https://www.lynda.com/PHP-tutorials/PHP-MySQL-Essential-Training-1-Basics/587674-2.html?srchtrk=index%3a1%0alinktypeid%3a2%0aq%3aphp+mysql%0apage%3a1%0as%3arelevance%0asa%3atrue%0aproducttypeid%3a2"><img class="ext-link-img" src="./images/ext-link.png" /></a>
+|Flutter & Dart - The Complete Guide by Maximilian Schwarzmüller Academind <a class="ext-link-a" href="https://www.udemy.com/course/learn-flutter-dart-to-build-ios-android-apps/"><img class="ext-link-img" src="./images/ext-link.png" /></a>
 |Version Control with Git <a class="ext-link-a" href="https://classroom.udacity.com/courses/ud123"><img class="ext-link-img" src="./images/ext-link.png" /></a>
 |Android Basics : Multiscreen Apps <a class="ext-link-a" href="https://classroom.udacity.com/courses/ud839"><img class="ext-link-img" src="./images/ext-link.png" /></a>
 |Android Basics : Networking <a class="ext-link-a" href="https://classroom.udacity.com/courses/ud843"><img class="ext-link-img" src="./images/ext-link.png" /></a>
@@ -69,7 +69,12 @@ I completed following online courses to enhance my knowledge of Web and Mobile A
 
 ## Events and Seminars
 
+<img style="width: 250px; height: 120px;" src="./images/gdg_live_swag.jpg">
+
 |-------------------------------------------------------
+| Participated in DevFest21 by GDG Live Pakistan and win the quiz and swag pack.
+| Participated in Android Sekho Event by GDG Live Pakistan.
+| Participated in Speed Programming Competition held at NED in SPEC16
 | Runners Up in RoboWars Competition at IBA ProBattle 2017
 | Participated in Speed Programming Competition held at NED in SPEC16.
 | Participated in IQUEST Competition in PROQUEST16 at Karachi University Computer Science Department (UBIT).
