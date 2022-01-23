@@ -4,7 +4,7 @@ layout: default
 
 <img class="profile-picture" src="faizan.jpg">
 
-I am Faizan Darwesh, I did my Bachelors in Computer Science from Karachi University, Department of Computer Science IBA KHI, Pakistan.
+I am Faizan Darwesh, I did my Bachelors in Computer Science from Karachi University, Department of Computer Science UBIT Karachi, Pakistan.
 
 ## Interests
 
