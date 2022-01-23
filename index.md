@@ -47,7 +47,7 @@ Following are some projects (with link to GitHub code repo) I have worked on:
 
  ### Work Experience
 
-## Genetech Solutions (Software Development Company)
+<!-- ## Genetech Solutions (Software Development Company) -->
 
 <img style="width: 250px; height: 120px;" src="./images/genetech_logo.jpg">
 
