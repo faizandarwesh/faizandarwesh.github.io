@@ -45,9 +45,9 @@ Following are some projects (with link to GitHub code repo) I have worked on:
 * **Pizza Zone App** [(Project Link)](https://github.com/faizandarwesh/Pizza-Project): This is a C# Form based application for  ordering pizza. It includes some other items like drinks and salads and also maintains billing information of the order.  
 
 
- ## Work Experience
+ ### Work Experience
 
-### Genetech Solutions (Software Development Company)
+## Genetech Solutions (Software Development Company)
 
 <img style="width: 250px; height: 120px;" src="./images/genetech_logo.jpg">
 
@@ -67,9 +67,9 @@ I completed following online courses to enhance my knowledge of Mobile App Devel
 |Android Basics : Networking <a class="ext-link-a" href="https://classroom.udacity.com/courses/ud843"><img class="ext-link-img" src="./images/ext-link.png" /></a>
 |Firebase in a Weekend (Android) <a class="ext-link-a" href="https://classroom.udacity.com/courses/ud0352"><img class="ext-link-img" src="./images/ext-link.png" /></a>
 
-## Events and Seminars
+## Events Particaption & Acheivements
 
-<img style="width: 250px; height: 120px;" src="./images/gdg_live_swag.jpg">
+<img style="width: 250px; height: 120px;" src="./images/gdg_live_swag.jfif">
 
 |-------------------------------------------------------
 | Participated in DevFest21 by GDG Live Pakistan and win the quiz and swag pack.
