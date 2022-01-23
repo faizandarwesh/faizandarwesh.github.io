@@ -45,9 +45,11 @@ Following are some projects (with link to GitHub code repo) I have worked on:
 * **Pizza Zone App** [(Project Link)](https://github.com/faizandarwesh/Pizza-Project): This is a C# Form based application for  ordering pizza. It includes some other items like drinks and salads and also maintains billing information of the order.  
 
 
- ### Work Experience
+ ## Work Experience
 
-<!-- ## Genetech Solutions (Software Development Company) -->
+---
+
+## Genetech Solutions (Software Development Company)
 
 <img style="width: 250px; height: 120px;" src="./images/genetech_logo.jpg">
 
