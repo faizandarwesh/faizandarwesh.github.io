@@ -69,7 +69,7 @@ I completed following online courses to enhance my knowledge of Mobile App Devel
 
 ## Events Particaption & Acheivements
 
-<img style="width: 250px; height: 120px;" src="./images/gdg_live_swag.jfif">
+<img style="width: 250px; height: 120px;" src="./images/gdg.jpg">
 
 |-------------------------------------------------------
 | Participated in DevFest21 by GDG Live Pakistan and win the quiz and swag pack.
