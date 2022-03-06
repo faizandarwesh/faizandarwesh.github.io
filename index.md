@@ -20,7 +20,7 @@ Technologies    | <button class="skill-badge-green">Android</button> <button cla
 ## Projects
 Following are some projects (with link to GitHub code repo) I have worked on:
 
-* **BiteReel Flutter App**: Bite Reel is a platform where you can search, share, create and organize recipes from your favorite website, food bloggers, chefs, family members, and friends. It is a social networking app with all features like post,like,comment,share,push notifications etc. It is completely based on flutter with Getx framework and SharedPreferences for storing user informations.
+* **BiteReel App**: Bite Reel is a platform where you can search, share, create and organize recipes from your favorite website, food bloggers, chefs, family members, and friends. It is a social networking app with all features like post,like,comment,share,push notifications etc. It is completely based on flutter with Getx framework and SharedPreferences for storing user informations.
 
 * **Taste Of Blue App** : Taste of BLUE is a membership offering luxury travel, perks and exclusive access to elite events.Catering to entrepreneurs, business professionals, and those searching for premier lifestyle services on a global scale. Technology wise it is a native android app with kotlin code base, for database it uses room persistense library, Retrofit Client, Kotlin coroutines and etc.
 
