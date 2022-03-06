@@ -15,22 +15,22 @@ I am interested in developing technological solutions to challenging problems co
 ----------------|-----------------------------
 Programming     |  <button class="skill-badge-blue">Java</button> <button class="skill-badge-blue">Kotlin</button> <button class="skill-badge-blue">C#</button> <button class="skill-badge-blue">Dart</button>
 Databases             | <button class="skill-badge-blue">MySQL</button> <button class="skill-badge-blue">Firebase</button>  <button class="skill-badge-blue">Sqlite</button>
-Technologies    | <button class="skill-badge-green">Android</button>  <button class="skill-badge-green">Git</button>
+Technologies    | <button class="skill-badge-green">Android</button> <button class="skill-badge-green">Flutter</button>  <button class="skill-badge-green">Git</button>
 
 ## Projects
 Following are some projects (with link to GitHub code repo) I have worked on:
 
-* **BiteReel Flutter App** [(Project Link)](https://github.com/faizandarwesh/NodeJs-Shopping-List-App): It is social networking app with all features like post,like,comment,share,push notifications etc. It is completely based on flutter with Getx framework and SharedPreferences for storing user informations.
+* **BiteReel Flutter App**: Bite Reel is a platform where you can search, share, create and organize recipes from your favorite website, food bloggers, chefs, family members, and friends. It is a social networking app with all features like post,like,comment,share,push notifications etc. It is completely based on flutter with Getx framework and SharedPreferences for storing user informations.
 
-* **Taste Of Blue App** [(Project Link)](https://github.com/faizandarwesh/NodeJs-Shopping-List-App): It is social networking android app with all features like DialogFlow chat,Book flights,hotels,cars and etc. Technology wise it is a native android app with kotlin code base, for database it uses room persistense library, Retrofit Client, Kotlin coroutines and etc.
+* **Taste Of Blue App** : Taste of BLUE is a membership offering luxury travel, perks and exclusive access to elite events.Catering to entrepreneurs, business professionals, and those searching for premier lifestyle services on a global scale. Technology wise it is a native android app with kotlin code base, for database it uses room persistense library, Retrofit Client, Kotlin coroutines and etc.
 
-* **Tee Square App** [(Project Link)](https://github.com/faizandarwesh/NodeJs-Shopping-List-App): It is an educational android app that is used by some schools to educate the childrens in a modern way. It contains a complete architecture for children educations with courses like english,urdu,maths etc with there respective lessons and quizes of various types. Technology wise it is a native android app with Java code base, for database it uses room persistense library, Retrofit Client and it provides great grooming in my debugging skills.
+* **Tee Square App** : TeeSquare is a socially purposed edTech enterprise dedicated to providing affordable, empowering, and inclusive quality education in Pakistan. Technology wise it is a native android app with Java and Kotlin mix kind of code base, for database it uses room persistense library, Retrofit Client and it provides great grooming in my debugging skills.
 
-* **Battery Percentage App** [(Project Link)](https://github.com/faizandarwesh/NodeJs-Shopping-List-App): It is a small product that will provide the phone's battery percentage and its estimated battery time.This is an android app contains features like Broadcast Receivers, Notifications etc.
+* **Battery Percentage App** : It is a small product that will provide the phone's battery percentage and its estimated battery time.This is an android app contains features like Broadcast Receivers, Notifications etc.
 
-* **Pocket Ruler App** [(Project Link)](https://github.com/faizandarwesh/NodeJs-Shopping-List-App): It is an android app that contains a handy ruler for the ease of use inorder to measure things by using the mobile app.
+* **Pocket Ruler App** : It is an android app that contains a handy ruler for the ease of use inorder to measure things by using the mobile app.
 
-* **Tilt Alert Android App** [(Project Link)](https://github.com/faizandarwesh/NodeJs-Shopping-List-App): It is a product that contains a handy tool for measuring how flat the surface is its pretty useful for workers to measure surface straightness by using the mobile app.
+* **Tilt Alert Android App** : It is a product that contains a handy tool for measuring how flat the surface is its pretty useful for workers to measure surface straightness by using the mobile app.
 
 * **Route Drawing Android App** [(Project Link)](https://github.com/faizandarwesh/CG-Project): This application lets user find the route from location A to location B using Google Map API. To find the route user has to set pointer on his current location and then drag the pointer to drop off location so that app can guide the track using Google Map API.
 
@@ -48,7 +48,7 @@ Following are some projects (with link to GitHub code repo) I have worked on:
 
 ## Work Experience
 
-## Genetech Solutions (Software Development Company)
+## Genetech Solutions
 
 <img style="width: 250px; height: 120px;" src="./images/genetech_logo.jpg">
 
@@ -68,7 +68,7 @@ I completed following online courses to enhance my knowledge of Mobile App Devel
 |Android Basics : Networking <a class="ext-link-a" href="https://classroom.udacity.com/courses/ud843"><img class="ext-link-img" src="./images/ext-link.png" /></a>
 |Firebase in a Weekend (Android) <a class="ext-link-a" href="https://classroom.udacity.com/courses/ud0352"><img class="ext-link-img" src="./images/ext-link.png" /></a>
 
-## Events Particaption & Acheivements
+## Events Participation & Achievements
 
 <img style="width: 250px; height: 120px;" src="./images/gdg.jpg">
 
@@ -104,5 +104,5 @@ I completed following online courses to enhance my knowledge of Mobile App Devel
 <a name="contact" />
 ## Contact
 
-* faizandarwesh@outlook.com
+* faizan.darwesh@genetechsolutions.com
 
